@@ -92,7 +92,7 @@ Senha: Qualquer valor.
 
 
 ## Equipe de Desenvolvimento
-### Este projeto foi desenvolvido como parte de um trabalho de conclusão de disciplina por:
+ Este projeto foi desenvolvido pela Turma Info 04 da instituição Grau Técnico Venda Nova como parte de um trabalho de conclusão de disciplina por:
 
 Daiane
 
@@ -103,7 +103,7 @@ Yasmin
 Isaque
 
 Andrey
-
+Lais 
 ### Instrutor da Disciplina
 Agradecemos a orientação do instrutor:
 
