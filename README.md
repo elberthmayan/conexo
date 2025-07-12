@@ -48,7 +48,7 @@ Uma área dedicada ao universo gamer com notícias, jogos gratuitos, transmissõ
 
 
 ## Tecnologias Utilizadas
- ### O projeto Conexo foi desenvolvido com foco em tecnologias de front-end, garantindo uma interface responsiva, dinâmica e intuitiva:
+  O projeto Conexo foi desenvolvido com foco em tecnologias de front-end, garantindo uma interface responsiva, dinâmica e intuitiva:
 
 HTML5: Responsável pela estrutura semântica e básica das páginas.
 
