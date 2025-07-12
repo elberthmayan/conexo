@@ -103,7 +103,9 @@ Yasmin
 Isaque
 
 Andrey
+
 Lais 
+
 ### Instrutor da Disciplina
 Agradecemos a orientação do instrutor:
 
